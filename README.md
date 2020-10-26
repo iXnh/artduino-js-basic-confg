@@ -9,7 +9,7 @@
 
 #Software
 1. Arduino IDE
-2. Text Editor (i use Visual Studio Code)
+2. Text Editor (saya menggunakan Visual Studio Code)
 3. Command Line
 
 # Step :
